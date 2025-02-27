@@ -6,7 +6,7 @@ This project analyzes the **Olist E-commerce dataset**, focusing on customer beh
 
 ## 📂 Dataset Description
 
-For a detailed description of the dataset, refer to the **[Olist Brazilian Dataset Data Dictionary](https://github.com/Devender-Singh-Bisht/Olist-Ecommerce-Analysis/blob/main/Olist%20Brazilian%20Dataset%20Data%20Dictionary.docx)**.
+For a detailed description of the dataset, refer to the **[Olist Brazilian Dataset Data Dictionary](https://github.com/Devender-Singh-Bisht/Olist-Ecommerce-Analysis/blob/main/Olist%20Brazilian%20Dataset%20Data%20Dictionary.docx)**. It is created by me for analysis and is not official.
 
 ## ❓ Business Problem Statement
 
