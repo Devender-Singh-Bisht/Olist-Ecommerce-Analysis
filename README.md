@@ -6,7 +6,7 @@ This project analyzes the **Olist E-commerce dataset**, focusing on customer beh
 
 ## 📂 Dataset Description
 
-For a detailed description of the dataset, refer to the **[Olist Brazilian Dataset Data Dictionary](https://github.com/Devender-Singh-Bisht/Olist-Ecommerce-Analysis/blob/main/Olist%20Brazilian%20Dataset%20Data%20Dictionary.docx)**. It is created by me for analysis and is not official.
+For a detailed description of the dataset, refer to the **[Olist Brazilian Dataset Data Dictionary](https://github.com/Devender-Singh-Bisht/Olist-Ecommerce-Analysis/blob/main/Olist%20Brazilian%20Dataset%20Data%20Dictionary.docx)**.
 
 ## ❓ Business Problem Statement
 
@@ -76,6 +76,11 @@ E-commerce businesses face challenges in understanding customer behavior, optimi
 - Geographic distribution of customers and sellers.
 - Correlation between shipping time and reviews.
 - Payment method preferences.
+
+## 📂 Project Files
+
+- **Olist Ecommerce Exploration (`.ipynb`)**: Covers initial data exploration, cleaning, and summary statistics to understand data distribution.
+- **Olist Ecommerce Analysis (`.ipynb`)**: Builds on exploration with in-depth insights, answering key business questions using advanced analysis and visualizations.
 
 ## ⚡ Challenges and Solutions
 
