@@ -6,7 +6,7 @@ This project analyzes the **Olist E-commerce dataset**, focusing on customer beh
 
 ## 📂 Dataset Description
 
-For a detailed description of the dataset, refer to the **[Olist Brazilian Dataset Data Dictionary](https://github.com/Devender-Singh-Bisht/Olist-Ecommerce-Analysis/blob/main/Olist%20Brazilian%20Dataset%20Data%20Dictionary.docx)**.
+For a detailed description of the dataset, refer to the [Olist Brazilian Dataset Data Dictionary](https://github.com/Devender-Singh-Bisht/Olist-Ecommerce-Analysis/blob/main/Olist%20Brazilian%20Dataset%20Data%20Dictionary.docx).
 
 ## ❓ Business Problem Statement
 
@@ -79,9 +79,14 @@ E-commerce businesses face challenges in understanding customer behavior, optimi
 
 ## 📂 Project Files
 
-- **Olist Ecommerce Exploration (`.ipynb`)**: Covers initial data exploration, cleaning, and summary statistics to understand data distribution.
-- **Olist Ecommerce Analysis (`.ipynb`)**: Builds on exploration with in-depth insights, answering key business questions using advanced analysis and visualizations.
 
+- **Olist Ecommerce Exploration (`.ipynb`)**: Covers initial data exploration, cleaning, and summary statistics to understand data distribution.<br>
+  [Olist Ecommerce Exploration](https://github.com/Devender-Singh-Bisht/Olist-Ecommerce-Analysis/blob/main/Olist%20Ecommerce%20Exploration.ipynb)
+  
+- **Olist Ecommerce Analysis (`.ipynb`)**: Builds on exploration with in-depth insights, answering key business questions using advanced analysis and visualizations.<br>
+  [Olist Ecommerce Analysis](https://github.com/Devender-Singh-Bisht/Olist-Ecommerce-Analysis/blob/main/Olist%20Ecommerce%20Analysis.ipynb)
+
+  
 ## ⚡ Challenges and Solutions
 
 ### **Challenges Faced**
